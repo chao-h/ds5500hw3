@@ -18,6 +18,7 @@
 |3     |LA     |1,557             |
 |4     |NM     |1,541             |
 |5     |SD     |1,467             |
+
 ![avg_edu](plot/avg_edu.jpg)
 # Q2
 ## Visualize the relationship between school districts’ total revenue and expenditures.
